@@ -24,3 +24,42 @@
 #### 2. Integration Testing, merupakan pengujian dari hasil penggabungan unit-unit yang ada di dalam perangkat lunak. Integration Testing memiliki tujuan. Pertama, memeriksa sebuah aplikasi atau software dapat berfungsi atau berjalan dengan baik. Kedua, memeriksa kinerja dari sebuah aplikasi dan software. Ketiga, mengetes struktur program yang sudah dirancang.
 #### 3. System Testing, merupakan testing yang dilakukan pada satu keseluruhan sistem yang dilakukan tidak lain adalah end to end testing untuk memverifikasi semua skenario telah berjalan dengan baik.
 #### 4. Acceptance Testing, digunakan untuk menentukan apakah sistem yang didevelope telah memenuhi kebutuhan pengguna. Acceptance Testing dilakukan pada tahap terakhir proses pengujian yaitu sebelum sistem diserahkan kepada pengguna. Dan biasanya digunakan setelah rangkaian seperti Unit Testing, Integration Testing, dan System Testing selesai.
+
+
+
+
+# Resume Software Testing as a Career Path
+#### Software Testing merupakan proses verifikasi sistem / program komputer untuk memutuskan apakah memenuhi persyaratan yang ditentukan dan mengeluarkan hasil yang diinginkan. Sebagai hasilnya nanti juga akan mengindentifikasi apakah suatu project perangkat lunak terdapat bug atau tidak.
+#### Ada beberapa skill yang harus dikuasai oleh seorang Software Testing :
+#### 1. Non-Technical Skills
+####    - Analytical Skills, skill ini dapat memudahkan kita untuk memecah tatanan software yang kompleks menjadi unit yang lebih sederhana. Setelah disederhanakan kita bisa menemukan kesalahan dalam software dengan mudah.
+####    - Communication Skills, dalam melakukan pekerjaan kita akan berkomunikasi langsung dengan tim product maupun dengan development. Juga akan membicarakan hal teknis kepada mereka yang tidak paham mengenai hal tersebut, selain itu dalam melakukan pekerjaan kita tentu akan melakukan tes terhadap hasil kerja tim developer. Memberikan kritik tanpa menyinggung merupakan hal yang perlu diperhatikan.
+####    - Time Management & Organization Skill, mampu bekerja dan memahami apa yang harus dilakukan segera dan tahu apa yang harus dilakukan setelahnya. Selain itu, sebagai bagian dari tim, kita akan bekerja dengan jadwal kerja orang lain. Oleh karena itu, mengerjakan pekerjaan kita dengan tepat waktu menjadi hal yang sangat penting.
+####    - Great Attitude, untuk menjadi seorang software tester tentunya harus memiliki good attitude, dimana sikap untuk test tubrik, detail orientation, serta kemauan untuk belajar.
+####    - Passion, cobalah dengan sederhana, jika tidak memuaskan bisa beralih ke skill yang menjadi minat kita.
+#### 2. Technical Skills
+####    - Basic Knowledge of Unix/Linux commands
+####    - Test Management Tools
+####    - Tracking Management Tools
+####    - Automation Testing Tools
+#### Hal - hal yang harus dilakukan Software Tester :
+####    - Paham kebutuhan document
+####    - Membuat Test Cases
+####    - Menjalankan test cases
+####    - Melakukan reporting dan pengujian kembali jika ada bug
+####    - Mengikuti meeting dengan tim kerja yang lain.
+#### Tahapan karir Software Tester :
+#### 1. Junior Quality Engineer (Fresher)
+#### 2. Quality Engineer (1 - 2 years experience)
+#### 3. Senior Quality Engineer (>3 years experience)
+#### 4. Quality Engineer Lead (5 - 6 years experience)
+#### 5. Quality Engineer Manager (8 - 11 years experience)
+#### Alternatif karir :
+#### 1. Performance Tester
+#### 2. Penetration Tester
+#### 3. System Analyst
+#### 4. Scrum MAster
+#### Cara menjadi Software Tester :
+#### 1. Harus mempelajari Software Testing, Test Case Management Tools, Automation Tools
+#### 2. Melamar sebagai Freelancer
+#### 3. Melamar untuk pekerjaan tetap kita
